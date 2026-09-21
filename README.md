@@ -1,3 +1,4 @@
+
 <div align="center"> <h1 style="font-size: 3em; margin-bottom: 10px;">Hi, I'm Hiztin! <img width="80" src="https://raw.githubusercontent.com/FragileDeviations/FragileDeviations/main/wavey.gif"/></h1> <img width="140" src="https://private-user-images.githubusercontent.com/74038190/240815616-7b282ec6-fcc3-4600-90a7-2c3140549f58.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzExNDUyNjQsIm5iZiI6MTc3MTE0NDk2NCwicGF0aCI6Ii83NDAzODE5MC8yNDA4MTU2MTYtN2IyODJlYzYtZmNjMy00NjAwLTkwYTctMmMzMTQwNTQ5ZjU4LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjAyMTUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwMjE1VDA4NDI0NFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTgzZWVhOWY2Y2VjYTVkZmJhYjFhYWNkMDhmZjM0NzQwMjYyN2NiYmFlMjhlN2MwZDNiMjFiYTEzMGZhNDM1NmMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.rhNHGR0uJgEptRd5pFfC2Bu2leIKp5wtscTTA0wnBK8"/> </div>
 
 **Platform & Tools**
@@ -31,23 +32,89 @@ ________________________________
 ![](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
-
 **Machine Learning & Data:**
 
 ![](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
 
-### 📫 How to contact me:
-*   Discord: h1zz
-*   Почта: histeenn@proton.me
+<details open> <summary><b>🇬🇧 English</b></summary>
 
-* TG: https://t.me/histeenn
+ About Me
 
-  ## 📈 GitHub Activity Graph:
+I'm interested in networks, cybersecurity, machine learning and infrastructure - from VPNs and self-hosted systems to AI experiments.
+
+
+networks     - infrastructure, protocols, VPN
+security     - vulnerabilities, privacy, censorship, research
+machine      - ML, AI agents
+infrastructure - Linux, servers, self-hosting
+
+
 <div align="center">
-  <img width="120%" src="https://github-readme-streak-stats.herokuapp.com/?user=hiztin&theme=tokyonight&hide_border=true"/>
+
+Networking · Cybersecurity · VPN · Linux · Infrastructure · Machine Learning · AI · Privacy · Automation
+
 </div>
+
+📫 Contact
+
 <div align="center">
-  <img width="100" src="https://private-user-images.githubusercontent.com/74038190/240815616-7b282ec6-fcc3-4600-90a7-2c3140549f58.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzExNDUyNjQsIm5iZiI6MTc3MTE0NDk2NCwicGF0aCI6Ii83NDAzODE5MC8yNDA4MTU2MTYtN2IyODJlYzYtZmNjMy00NjAwLTkwYTctMmMzMTQwNTQ5ZjU4LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjAyMTUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwMjE1VDA4NDI0NFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTgzZWVhOWY2Y2VjYTVkZmJhYjFhYWNkMDhmZjM0NzQwMjYyN2NiYmFlMjhlN2MwZDNiMjFiYTEzMGZhNDM1NmMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.rhNHGR0uJgEptRd5pFfC2Bu2leIKp5wtscTTA0wnBK8"/>
+
+<a href="https://t.me/histeenn"> <img src="https://img.shields.io/badge/Telegram-histeenn-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/> </a>
+
+<a href="mailto:histeenn@proton.me"> <img src="https://img.shields.io/badge/Email-histeenn%40proton.me-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white"/> </a>
+
+<a href="https://github.com/histeenn"> <img src="https://img.shields.io/badge/GitHub-histeenn-181717?style=for-the-badge&logo=github&logoColor=white"/> </a>
+
+<a href="https://twitch.tv/snuff4r"> <img src="https://img.shields.io/badge/Twitch-snuff4r-9146FF?style=for-the-badge&logo=twitch&logoColor=white"/> </a>
+
+</div>
+
+</details>
+
+<details> <summary><b>🇷🇺 Русская версия</b></summary>
+
+ Обо мне
+
+Я интересуюсь сетями, кибербезопасностью, машинным обучением и инфраструктурой - от VPN и собственных серверов до экспериментов с ИИ.
+
+сети          - инфраструктура, протоколы, VPN
+безопасность  - уязвимости, приватность, исследования
+ML / AI       - нейросети, агенты, эксперименты
+инфраструктура - Linux, серверы, self-hosting
+
+
+<div align="center">
+
+Сети · Кибербезопасность · VPN · Linux · Инфраструктура · Machine Learning · AI · Приватность · Автоматизация
+
+
+</div>
+
+  📫 Контакты
+
+<div align="center">
+
+<a href="https://t.me/histeenn"> <img src="https://img.shields.io/badge/Telegram-histeenn-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/> </a>
+
+<a href="mailto:histeenn@proton.me"> <img src="https://img.shields.io/badge/Email-histeenn%40proton.me-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white"/> </a>
+
+<a href="https://github.com/histeenn"> <img src="https://img.shields.io/badge/GitHub-histeenn-181717?style=for-the-badge&logo=github&logoColor=white"/> </a>
+
+<a href="https://twitch.tv/snuff4r"> <img src="https://img.shields.io/badge/Twitch-snuff4r-9146FF?style=for-the-badge&logo=twitch&logoColor=white"/> </a>
+
+</div>
+
+</details>
+
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="90%"/>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+
 </div>
